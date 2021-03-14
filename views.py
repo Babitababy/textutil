@@ -71,18 +71,7 @@ def analyze(request):
     else:
         return HttpResponse("Error")
 
-# def capfirst(request):
-#     return HttpResponse("capitalize first")
-#
-# def newlineremove(request):
-#     return HttpResponse("newline remove first")
-#
-#
-# def spaceremove(request):
-#     return HttpResponse("space remover back")
-#
-# def charcount(request):
-#     return HttpResponse("charcount ")
+
 
 
 
